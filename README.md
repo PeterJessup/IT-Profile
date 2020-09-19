@@ -1,2 +1,2 @@
 # IT Profile
- Assignment 1 - into to IT
+ Assignment 1 - intro to IT
